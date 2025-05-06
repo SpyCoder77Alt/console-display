@@ -1,3 +1,7 @@
 # console-display
+## display console logs at the bottom of the webpage
 
-[Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/SpyCoder77Alt/console-display)
+To use, add this to the top of your HTML body:
+```html
+<script src="https://cdn.jsdelivr.net/gh/SpyCoder77alt/console-display@master/index.js">
+```
